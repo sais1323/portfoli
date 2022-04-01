@@ -1,0 +1,44 @@
+.asd{
+    width: 500px;
+    height: 330px;
+    background-color: chartreuse;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+.ssd{
+    width: 450px;
+    height: 90px;
+    background-color: black;
+    color: chartreuse;
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.ssdd{
+    width: 450px;
+    height: 90px;
+    background-color: black;
+    color: chartreuse;
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.as{
+    font-family: sans-serif;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: chartreuse;
+    margin-left: 140px;
+}
+body{
+    padding: 0;
+    margin: 0;
+   background: linear-gradient(to right, chartreuse, black);
+}
+.for{
+    position: absolute;
+}
